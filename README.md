@@ -384,19 +384,4 @@ alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10"
 [![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg)](http://www.youtube.com/watch?v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE)
 ```
 
-Мы на столько крутые, что уже успели поработать со следующими команиями:
-
-ООО «Рога и копыта»
-Издательство «Читый лист»
-Космопорт «Черезтерновый Кзвёздный»
-Дизайн-студия имени Слишком Известного Персонажа
-
-```
-.selector {
-font-family: "Awesome", Arial, sans-serif;
-color: red;
-}
-
-```
-
 PS. Текст взят у автора "sandino" по ссылке https://github.com/sandino/Markdown-Cheatsheet .
